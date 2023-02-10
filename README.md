@@ -9,7 +9,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&langs_count=10&layout=compact&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <img height="180em" src="https://github.com/anuraghazra/github-readme-stats" />
