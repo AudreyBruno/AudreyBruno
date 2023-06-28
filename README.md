@@ -12,11 +12,11 @@
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=dark&count_private=true&icon_color=4c71f2" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=light&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&count_private=true" />
 </picture>
 
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10" />
 </picture>
