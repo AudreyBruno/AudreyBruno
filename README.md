@@ -10,7 +10,11 @@ Sou Audrey Siqueira um desenvolvedor apaixonado por tecnologia. Atualmente traba
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/audrey-siqueira-278400264)
+<div>
+  <a href="https://www.linkedin.com/in/audrey-siqueira-278400264" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 # 📊 GitHub Stats:
 <picture>
