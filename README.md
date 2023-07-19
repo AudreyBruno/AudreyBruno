@@ -1,6 +1,11 @@
 # 👋 Hi there
 I'm Audrey Siqueira.
+
 A developer passionate about technology. I currently work as a Software Developer at AguiaSoft Sistemas.
+
+Sou Audrey Siqueira.
+
+Um desenvolvedor apaixonado por tecnologia. Atualmente trabalho como Desenvolvedor de Software na AguiaSoft Sistemas.
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
