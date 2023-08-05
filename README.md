@@ -28,7 +28,7 @@ A developer passionate about technology. I currently work as a Software Develope
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true" />
 </picture>
