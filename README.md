@@ -22,13 +22,13 @@ A developer passionate about technology. I currently work as a Software Develope
 
 # 📊 GitHub Stats:
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=dark&count_private=true&icon_color=4c71f2" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=light&count_private=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&count_private=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=dark&icon_color=4c71f2" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true" />
 </picture>
