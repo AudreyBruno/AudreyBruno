@@ -19,7 +19,7 @@ A developer passionate about technology. I currently work as a Software Develope
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/audrey-siqueira-278400264)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/audreysiqueira)
 
 # 📊 GitHub Stats:
 <picture>
