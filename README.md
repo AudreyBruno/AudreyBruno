@@ -1,7 +1,7 @@
 # 👋 Hi there
 I'm Audrey Siqueira.
 
-A developer passionate about technology. I currently work as a Software Developer at AguiaSoft Sistemas.
+A developer passionate about technology. I currently work as a Software Developer at AguiaSoft Sistemas and I am studying software engineering.
 
 # 💻 Tech Stack
 
