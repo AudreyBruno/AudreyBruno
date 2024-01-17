@@ -1,7 +1,8 @@
 # 👋 Hi there
-I'm Audrey Siqueira.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8500C6&random=false&width=435&lines=I'm+Audrey+Siqueira)](https://git.io/typing-svg)
+<!--I'm Audrey Siqueira.-->
 
-A developer passionate about technology. I currently work as a Software Developer at AguiaSoft Sistemas and I am studying software engineering.
+A lover of technology, I work as a Software Developer at AguiaSoft Sistemas, while studying Software Engineering to further improve my skills.
 
 # 💻 Tech Stack
 
@@ -16,8 +17,7 @@ A developer passionate about technology. I currently work as a Software Develope
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<!--![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
+<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)-->
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/audreysiqueira)
