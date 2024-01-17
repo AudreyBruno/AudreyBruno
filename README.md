@@ -1,5 +1,5 @@
 # 👋 Hi there
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8500C6&random=false&width=435&lines=I'm+Audrey+Siqueira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=I'm+Audrey+Siqueira)](https://git.io/typing-svg)
 <!--I'm Audrey Siqueira.-->
 
 A lover of technology, I work as a Software Developer at AguiaSoft Sistemas, while studying Software Engineering to further improve my skills.
