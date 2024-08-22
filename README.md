@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=I'm+Audrey+Siqueira)](https://git.io/typing-svg)
 <!--I'm Audrey Siqueira.-->
 
-A lover of technology, I work as a Software Developer at AguiaSoft Sistemas, while studying Software Engineering to further improve my skills.
+Driven by a deep passion for technology, I’m currently honing my craft as a Software Developer at AguiaSoft Sistemas while pursuing a degree in Software Engineering to elevate my skills and knowledge.
 
 # 💻 Tech Stack
 
