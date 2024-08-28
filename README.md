@@ -1,15 +1,13 @@
 # 👋 Hi there
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=I'm+Audrey+Siqueira)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=Turning+coffee+into+code+☕💻)](https://git.io/typing-svg)
 <!--I'm Audrey Siqueira.-->
 
-Driven by a deep passion for technology, I’m currently honing my craft as a Software Developer at AguiaSoft Sistemas while pursuing a degree in Software Engineering to elevate my skills and knowledge.
+Olá, me chamo Audrey Bruno, tenho 22 anos e iniciei minha carreira em tecnologia em 2017 na empresa AguiaSoft Sistemas. Comecei como suporte técnico, ajudando os clientes a resolver problemas, respondendo dúvidas e criando relatórios personalizados para cada um. Depois de algum tempo na empresa, passei a ajudar nos testes dos softwares desenvolvidos. Em 2020, iniciei minha carreira como programador na empresa, criando aplicativos web, mobile e desktop.
 
 # 💻 Tech Stack
 
 ![Delphi](https://img.shields.io/badge/delphi-%23CC0000.svg?style=for-the-badge&logo=delphi&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
