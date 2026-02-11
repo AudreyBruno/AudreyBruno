@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=Turning+coffee+into+code+☕💻)](https://git.io/typing-svg)
 <!--I'm Audrey Siqueira.-->
 
-Olá, me chamo Audrey Bruno, tenho 22 anos e iniciei minha carreira em tecnologia em 2017 na empresa AguiaSoft Sistemas. Comecei como suporte técnico, ajudando os clientes a resolver problemas, respondendo dúvidas e criando relatórios personalizados para cada um. Depois de algum tempo na empresa, passei a ajudar nos testes dos softwares desenvolvidos. Em 2020, iniciei minha carreira como programador na empresa, criando aplicativos web, mobile e desktop.
+Olá, me chamo Audrey Bruno, tenho 24 anos e iniciei minha carreira em tecnologia em 2017 na empresa AguiaSoft Sistemas. Comecei como suporte técnico, ajudando os clientes a resolver problemas, respondendo dúvidas e criando relatórios personalizados para cada um. Depois de algum tempo na empresa, passei a ajudar nos testes dos softwares desenvolvidos. Em 2020, iniciei minha carreira como programador na empresa, criando aplicativos web, mobile e desktop.
 
 # 💻 Tech Stack
 
