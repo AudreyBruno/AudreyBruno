@@ -22,13 +22,13 @@ Olá, me chamo Audrey Bruno, tenho 24 anos e iniciei minha carreira em tecnologi
 
 # 📊 GitHub Stats:
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=dark&icon_color=4c71f2" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AudreyBruno&show_icons=true" />
+  <source srcset="https://github-stats-extended.vercel.app/api?username=audreyBruno&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-stats-extended.vercel.app/api?username=audreyBruno&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=audreyBruno&show_icons=true" />
 </picture>
 
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&theme=light" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true" />
+  <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=audreyBruno&layout=compact&langs_count=10&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-stats-extended.vercel.app/api/top-langs?username=audreyBruno&layout=compact&langs_count=10" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AudreyBruno&layout=compact&langs_count=10&count_private=true" />
 </picture>
